@@ -13,6 +13,9 @@ struct ContentView: View {
         VStack {
             Text("Hello, Peter!")
                 .padding()
+            Text("Hello, Again!")
+                .padding()
+                .background(Color.yellow)
         }
     }
 }
