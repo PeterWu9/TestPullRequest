@@ -15,6 +15,7 @@ struct ContentView: View {
                 .padding()
             Text("Hello, Again!")
                 .padding()
+                .background(Color.yellow)
         }
     }
 }
